@@ -1,8 +1,7 @@
 # Solução para o desafio React Native Basics
 
-<img style="width: 100%; max-width: 300px;" alt="Screenshot" src="https://github.com/alexbispo/reactnative-basics/raw/master/screenshot01.jpeg" />
+<img sstyle="max-width: 300px;width: 100%;" alt="Screenshot" src="https://github.com/alexbispo/reactnative-basics/raw/master/screenshot01.jpeg" />
 
-![alt text](https://github.com/alexbispo/reactnative-basics/raw/master/screenshot01.jpeg "Screenshot")
 
 ## Requisitos do desafio:
 
